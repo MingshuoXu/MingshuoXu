@@ -2,8 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=MingshuoXu&color=green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingshuoXu)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MingshuoXu)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MingshuoXu" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingshuoXu" alt="GitHub Streak">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Keep+going%2C+keep+opening.)](https://git.io/typing-svg)
 
