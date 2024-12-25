@@ -1,8 +1,5 @@
 ## Hi there 👋, welcome!
 
-- 🔭 I’m Mingshuo XU (Shawn), currently pursuing a Ph.D. in University of Leicister.
-- ✨ Website: [https://mingshuoxu.github.io/](https://mingshuoxu.github.io/)
-
 ![](https://komarev.com/ghpvc/?username=MingshuoXu&color=green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingshuoXu)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MingshuoXu)](https://git.io/streak-stats)
